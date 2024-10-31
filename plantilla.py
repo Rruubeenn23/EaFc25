@@ -122,20 +122,3 @@ class SeleccionarJugadores:
 
 
 
-# Ejemplo de uso
-if __name__ == "__main__":
-    seleccionador = SeleccionarJugadores('APIs/jugadores_obtenidos.csv')
-    
-    # Elegir formaciones
-    seleccionador.elegir_formacion()
-
-    # Mostrar formaciones del equipo
-    seleccionador.mostrar_formaciones()
-
-    # Cambiar jugadores en la formación (ejemplo para cada posición)
-    posiciones = ["GK", "DEF", "MID", "FWD"]
-    for posicion in posiciones:
-        seleccionador.cambiar_jugador(posicion)
-        
-    seleccionador.ver_plantilla()
-
