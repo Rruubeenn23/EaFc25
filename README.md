@@ -35,3 +35,9 @@ Aquí podrás hacer una plantilla, colocando jugadores en cada una de las posici
 Aquí se podrá ver la plantilla anteriormente creada
 
 ## 5. Jugar Partido. 
+Aquí se podrá jugar un partido. Para jugar un partido, se necesita una plantilla completa. Una vez tengas la plantilla completa, podrás elegir entre distintas dificultades con las que jugar. Una vez seleccionas la dificultad del rival, se mostrará la forma en la que se ganan o pierden los partidos y te dirá el resultado.  
+Como todos sabemos, en el EaFc25, lo que antes se llamaba FIFA, existe el Handicap, cosa que se ha añadido en este juego. Por lo que, por ejemplo, si tienes una plantilla infinitamente inferior a la plantilla rival, puedes ganar. Y si tienes una plantilla infinitamente superior a la plantilla rival, puedes perder.  
+
+Este sería el final del proyecto. Podrás abrir tantos sobres como quieras, cambiar tu plantilla tantas veces como quieras y jugar partidos tantas veces como quieras.  
+En la siguiente actualización, se añadirán las monedas, con lo que podrás abrir distintos sobres, se añadirán más plantillas, para poder personalizar aún más el equipo y se añadirá un apartado gráfico.  
+Muchas gracias a todos los lectores. 
