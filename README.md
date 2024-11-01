@@ -83,3 +83,6 @@ Termina tu sesión de juego.
 ### ¡Gracias por Jugar!
 
 Esperamos que disfrutes el proyecto. ¡Sigue explorando, abriendo sobres, creando plantillas y jugando partidos en **EaFc25**!
+
+![EA Sports FC 25 - GamesIndustry Article](https://www.gamesindustry.biz/ea-adds-further-monetisation-to-ea-sports-fc-25)
+
