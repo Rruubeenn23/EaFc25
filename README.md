@@ -86,6 +86,5 @@ Esperamos que disfrutes el proyecto. ¡Sigue explorando, abriendo sobres, creand
 
 
 <div>
-<div style="text-align: center">
 <img src="https://i.imgur.com/VKUh2k1.jpeg" alt="JuveYell" width="300px">
 </div>
