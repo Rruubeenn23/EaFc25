@@ -16,4 +16,8 @@ Cada uno de estas opciones tiene sus propias funcionalidades. Aquí va la explic
 ## 1. Abrir Sobres
 Aquí encontraremos un menu para poder abrir distintos sobres, con los que podremos obtener distintos jugadores. 
   1. Sobre de Bronce
-  1.2. 
+  2. Sobre de Plata
+  3. Sobre de Oro
+  4. Sobre de Oro Promocional
+
+Cada sobre tendrá sus posibles jugadores y sus probabilidades. En los Sobres de Bronce te pueden tocar jugadores de hasta **64** de media. En los Sobres de Plata, jugadores de entre **65 y 74** de media. En los Sobres de Oro te pueden tocar jugadores de más de **75** de media. Y en los Sobres de Oro Promocional te pueden tocar jugadores de a partir de **86** de media. 
