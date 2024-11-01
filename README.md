@@ -84,7 +84,8 @@ Termina tu sesión de juego.
 
 Esperamos que disfrutes el proyecto. ¡Sigue explorando, abriendo sobres, creando plantillas y jugando partidos en **EaFc25**!
 
+
 <div>
 <p style = 'text-align:center;'>
-<blockquote class="imgur-embed-pub" lang="en" data-id="VKUh2k1"><a href="https://imgur.com/VKUh2k1">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></p>
+<img src="https://i.imgur.com/VKUh2k1.jpeg" alt="JuveYell" width="300px">
 </div>
