@@ -84,4 +84,4 @@ Termina tu sesión de juego.
 
 Esperamos que disfrutes el proyecto. ¡Sigue explorando, abriendo sobres, creando plantillas y jugando partidos en **EaFc25**!
 
-[Imgur](https://imgur.com/VKUh2k1)
+![Imgur](https://imgur.com/VKUh2k1)
