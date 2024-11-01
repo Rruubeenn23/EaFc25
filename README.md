@@ -20,4 +20,5 @@ Aquí encontraremos un menu para poder abrir distintos sobres, con los que podre
   3. Sobre de Oro
   4. Sobre de Oro Promocional
 
-Cada sobre tendrá sus posibles jugadores y sus probabilidades. En los Sobres de Bronce te pueden tocar jugadores de hasta **64** de media. En los Sobres de Plata, jugadores de entre **65 y 74** de media. En los Sobres de Oro te pueden tocar jugadores de más de **75** de media. Y en los Sobres de Oro Promocional te pueden tocar jugadores de a partir de **86** de media. 
+Cada sobre tendrá sus posibles jugadores y sus probabilidades. En los Sobres de Bronce te pueden tocar jugadores de hasta **64** de media. En los Sobres de Plata, jugadores de entre **65 y 74** de media. 
+\nEn los Sobres de Oro te pueden tocar jugadores de más de **75** de media. Y en los Sobres de Oro Promocional te pueden tocar jugadores de a partir de **86** de media. 
