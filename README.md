@@ -86,6 +86,5 @@ Esperamos que disfrutes el proyecto. ¡Sigue explorando, abriendo sobres, creand
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
-</p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="VKUh2k1"><a href="https://imgur.com/VKUh2k1">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></p>
 </div>
