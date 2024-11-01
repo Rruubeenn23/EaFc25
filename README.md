@@ -15,5 +15,5 @@ Cada uno de estas opciones tiene sus propias funcionalidades. Aquí va la explic
 
 ## 1. Abrir Sobres
 Aquí encontraremos un menu para poder abrir distintos sobres, con los que podremos obtener distintos jugadores. 
-1.1. Sobre de Bronce
-1.2. 
+  1. Sobre de Bronce
+  1.2. 
